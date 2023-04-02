@@ -1,6 +1,5 @@
 ## Project Name:
-
-- HealthApp_1203: Build Health App using ReactJS version 17.0.2, typescript version 4.4.4. Also, includes Tailwindcss
+Tran Quoc Tuan HealthApp_1203 test result for FE developer position using ReactJS 17.0.2, typescript 4.4.4 and Tailwindcss
 
   Page 1:
   ![Home](src/frontend-images/my_page_1.png)
